@@ -19,6 +19,7 @@ app = FastAPI(docs_url="/")
 # CORS settings
 origins = [
     "http://localhost:3000",  # Add other origins as needed
+    "https://herbquest.netlify.app/"
 ]
 
 app.add_middleware(
@@ -65,7 +66,7 @@ async def process(file: UploadFile, background_tasks: BackgroundTasks):
 
         
         if result:
-            response = {"status": 0,"message": f'Leaf identified as {result['name']}' , "data":result}
+            response = {"status": 0,"message": f'Leaf identified as {result["name"]}' , "data":result}
         else: 
             response = {"status": 1,"message": "Unable to identify the leaf"}
         return response
