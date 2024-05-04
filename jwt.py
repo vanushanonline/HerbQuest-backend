@@ -29,8 +29,8 @@ class JWTMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request: Request, call_next):
         # Log all headers for debugging
 
-        path_whitelist = ["/token",'/favicon.ico']
-        if (request.url.path not in path_whitelist) and request.method != "OPTIONS" :
+        path_whitelist = ["/token",'/favicon.ico','/openapi.json','/']
+        if not any([request.url.path == p for p in path_whitelist] ) and request.method != "OPTIONS" :
             authorization: str = request.headers.get('Authorization')
             if not authorization:
                 return JSONResponse(status_code=403, content={"message": "Authorization header missing"})
