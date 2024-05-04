@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
+        "name": "Moringa Primary",
+        "bname": "Moringa oleifera",
+        "splace": [
+            "Puttalam",
+            "Jaffna",
+            "Bampalapitya"
+        ],
+        "benefit": [
+            "Rich in vitamins and minerals",
+            "Antioxidant properties"
+        ],
+        "usage": [
+            {
+                "disease": "Diabetes",
+                "use": "Consumed as part of the diet to help lower blood sugar levels."
+            },
+            {
+                "disease": "High blood pressure",
+                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
+        "name": "Moringa",
+        "bname": "Moringa oleifera",
+        "splace": [
+            "Puttalam",
+            "Jaffna",
+            "Bampalapitya"
+        ],
+        "benefit": [
+            "Rich in vitamins and minerals",
+            "Antioxidant properties"
+        ],
+        "usage": [
+            {
+                "disease": "Diabetes",
+                "use": "Consumed as part of the diet to help lower blood sugar levels."
+            },
+            {
+                "disease": "High blood pressure",
+                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
+        "name": "Moringa",
+        "bname": "Moringa oleifera",
+        "splace": [
+            "Puttalam",
+            "Jaffna",
+            "Bampalapitya"
+        ],
+        "benefit": [
+            "Rich in vitamins and minerals",
+            "Antioxidant properties"
+        ],
+        "usage": [
+            {
+                "disease": "Diabetes",
+                "use": "Consumed as part of the diet to help lower blood sugar levels."
+            },
+            {
+                "disease": "High blood pressure",
+                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
+        "name": "Moringa",
+        "bname": "Moringa oleifera",
+        "splace": [
+            "Puttalam",
+            "Jaffna",
+            "Bampalapitya"
+        ],
+        "benefit": [
+            "Rich in vitamins and minerals",
+            "Antioxidant properties"
+        ],
+        "usage": [
+            {
+                "disease": "Diabetes",
+                "use": "Consumed as part of the diet to help lower blood sugar levels."
+            },
+            {
+                "disease": "High blood pressure",
+                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
+        "name": "Moringa",
+        "bname": "Moringa oleifera",
+        "splace": [
+            "Puttalam",
+            "Jaffna",
+            "Bampalapitya"
+        ],
+        "benefit": [
+            "Rich in vitamins and minerals",
+            "Antioxidant properties"
+        ],
+        "usage": [
+            {
+                "disease": "Diabetes",
+                "use": "Consumed as part of the diet to help lower blood sugar levels."
+            },
+            {
+                "disease": "High blood pressure",
+                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
+        "name": "Moringa",
+        "bname": "Moringa oleifera",
+        "splace": [
+            "Puttalam",
+            "Jaffna",
+            "Bampalapitya"
+        ],
+        "benefit": [
+            "Rich in vitamins and minerals",
+            "Antioxidant properties"
+        ],
+        "usage": [
+            {
+                "disease": "Diabetes",
+                "use": "Consumed as part of the diet to help lower blood sugar levels."
+            },
+            {
+                "disease": "High blood pressure",
+                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+            }
+        ]
+    }
+]
