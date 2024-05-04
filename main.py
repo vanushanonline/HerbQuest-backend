@@ -115,6 +115,3 @@ async def register(user: User):
     user_collection.insert_one(user_dict)
     return {"status":0, "message": "User registered successfully"}
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
