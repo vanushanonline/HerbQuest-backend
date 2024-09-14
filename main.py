@@ -19,7 +19,7 @@ app = FastAPI(docs_url="/")
 # CORS settings
 origins = [
     "http://localhost:3000",  # Add other origins as needed
-    "https://herbquest.netlify.app/"
+    "https://herbquest.netlify.app"
 ]
 
 app.add_middleware(

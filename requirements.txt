@@ -9,3 +9,7 @@ pillow
 scikit-learn
 scikit-image
 fastapi_sessions
+pytest
+pytest-html
+python-multipart
+httpx

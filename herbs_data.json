@@ -1,152 +1,377 @@
 [
     {
         "id": 0,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
-        "name": "Moringa Primary",
-        "bname": "Moringa oleifera",
+        "img": "https://en.wikipedia.org/wiki/Clitoria_ternatea#/media/File:Clitoria_ternatea_flower_by_Dr._Raju_Kasambe_DSCN1517_(8).jpg",
+        "name": "Butterfly Pea",
+        "bname": "Clitoria ternatea",
         "splace": [
-            "Puttalam",
-            "Jaffna",
-            "Bampalapitya"
+            "Kurunegala",
+            "Matale",
+            "Colombo"
         ],
         "benefit": [
-            "Rich in vitamins and minerals",
-            "Antioxidant properties"
+            "Improves brain function",
+            "Enhances skin health"
         ],
         "usage": [
             {
-                "disease": "Diabetes",
-                "use": "Consumed as part of the diet to help lower blood sugar levels."
+                "disease": "Memory loss",
+                "use": "Consumed as tea to boost cognitive function."
             },
             {
-                "disease": "High blood pressure",
-                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+                "disease": "Stress",
+                "use": "Used in herbal tea to relieve anxiety and stress."
             }
         ]
     },
     {
         "id": 1,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
-        "name": "Moringa",
-        "bname": "Moringa oleifera",
+        "img": "https://en.wikipedia.org/wiki/Sida_acuta#/media/File:Sida_acuta_(Jangli-methi)_in_Hyderabad,_AP_W2_IMG_0084.jpg",
+        "name": "Common Wireweed",
+        "bname": "Sida cordifolia",
         "splace": [
-            "Puttalam",
-            "Jaffna",
-            "Bampalapitya"
+            "Anuradhapura",
+            "Batticaloa",
+            "Kandy"
         ],
         "benefit": [
-            "Rich in vitamins and minerals",
-            "Antioxidant properties"
+            "Anti-inflammatory properties",
+            "Boosts energy levels"
         ],
         "usage": [
             {
-                "disease": "Diabetes",
-                "use": "Consumed as part of the diet to help lower blood sugar levels."
+                "disease": "Arthritis",
+                "use": "Applied as a paste to reduce inflammation."
             },
             {
-                "disease": "High blood pressure",
-                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+                "disease": "Fatigue",
+                "use": "Taken as a supplement to increase energy."
             }
         ]
     },
     {
         "id": 2,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
-        "name": "Moringa",
-        "bname": "Moringa oleifera",
+        "img": "https://en.wikipedia.org/wiki/Calotropis_gigantea#/media/File:Calotropis_gigantea.jpg",
+        "name": "Crown Flower",
+        "bname": "Calotropis gigantea",
         "splace": [
-            "Puttalam",
             "Jaffna",
-            "Bampalapitya"
+            "Kilinochchi",
+            "Mannar"
         ],
         "benefit": [
-            "Rich in vitamins and minerals",
-            "Antioxidant properties"
+            "Helps with wound healing",
+            "Pain-relieving properties"
         ],
         "usage": [
             {
-                "disease": "Diabetes",
-                "use": "Consumed as part of the diet to help lower blood sugar levels."
+                "disease": "Skin ulcers",
+                "use": "Used in traditional medicine to treat skin ulcers."
             },
             {
-                "disease": "High blood pressure",
-                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+                "disease": "Joint pain",
+                "use": "Applied as a poultice to relieve pain."
             }
         ]
     },
     {
         "id": 3,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
-        "name": "Moringa",
-        "bname": "Moringa oleifera",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Andrographis_paniculata_%28Kalpa%29_in_Narshapur_forest%2C_AP_W2_IMG_0867.jpg",
+        "name": "Green Chireta",
+        "bname": "Andrographis paniculata",
         "splace": [
-            "Puttalam",
-            "Jaffna",
-            "Bampalapitya"
+            "Galle",
+            "Matara",
+            "Hambantota"
         ],
         "benefit": [
-            "Rich in vitamins and minerals",
-            "Antioxidant properties"
+            "Boosts immune system",
+            "Helps with respiratory infections"
         ],
         "usage": [
             {
-                "disease": "Diabetes",
-                "use": "Consumed as part of the diet to help lower blood sugar levels."
+                "disease": "Common cold",
+                "use": "Taken as a supplement to reduce the duration of cold symptoms."
             },
             {
-                "disease": "High blood pressure",
-                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+                "disease": "Fever",
+                "use": "Used to bring down fever in traditional medicine."
             }
         ]
     },
     {
         "id": 4,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
-        "name": "Moringa",
-        "bname": "Moringa oleifera",
+        "img": "https://en.wikipedia.org/wiki/Tinospora_cordifolia#/media/File:Tinospora_cordifolia.jpg",
+        "name": "Heart-Leaved Moonseed",
+        "bname": "Tinospora cordifolia",
         "splace": [
-            "Puttalam",
-            "Jaffna",
-            "Bampalapitya"
+            "Ratnapura",
+            "Kalutara",
+            "Nuwara Eliya"
         ],
         "benefit": [
-            "Rich in vitamins and minerals",
-            "Antioxidant properties"
+            "Improves immunity",
+            "Supports liver health"
         ],
         "usage": [
             {
-                "disease": "Diabetes",
-                "use": "Consumed as part of the diet to help lower blood sugar levels."
+                "disease": "Liver disease",
+                "use": "Taken to improve liver function."
             },
             {
-                "disease": "High blood pressure",
-                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+                "disease": "Infections",
+                "use": "Used in herbal preparations to boost immunity."
             }
         ]
     },
     {
         "id": 5,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DrumstickFlower.jpg",
-        "name": "Moringa",
-        "bname": "Moringa oleifera",
+        "img": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum#/media/File:Tulsi_or_Tulasi_Holy_basil.jpg",
+        "name": "Holy Basil",
+        "bname": "Ocimum tenuiflorum",
         "splace": [
-            "Puttalam",
-            "Jaffna",
-            "Bampalapitya"
+            "Kandy",
+            "Matale",
+            "Kurunegala"
         ],
         "benefit": [
-            "Rich in vitamins and minerals",
-            "Antioxidant properties"
+            "Reduces stress and anxiety",
+            "Promotes respiratory health"
+        ],
+        "usage": [
+            {
+                "disease": "Respiratory disorders",
+                "use": "Consumed as a tea to relieve symptoms of cold and asthma."
+            },
+            {
+                "disease": "Stress",
+                "use": "Used in herbal teas to reduce stress."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://en.wikipedia.org/wiki/Acalypha_indica#/media/File:(Arya)_Acalypha_indica_Pilangsari_2019_0.jpg",
+        "name": "Indian Copperleaf",
+        "bname": "Acalypha indica",
+        "splace": [
+            "Puttalam",
+            "Galle",
+            "Trincomalee"
+        ],
+        "benefit": [
+            "Anti-inflammatory properties",
+            "Helps with respiratory issues"
+        ],
+        "usage": [
+            {
+                "disease": "Asthma",
+                "use": "Used in traditional remedies to relieve asthma symptoms."
+            },
+            {
+                "disease": "Skin conditions",
+                "use": "Applied topically to treat skin infections."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "img": "https://www.growables.org/information/TropicalFruit/images/JujubeIndianWiki13300.jpg",
+        "name": "Indian Jujube",
+        "bname": "Ziziphus mauritiana",
+        "splace": [
+            "Anuradhapura",
+            "Hambantota",
+            "Monaragala"
+        ],
+        "benefit": [
+            "Rich in antioxidants",
+            "Supports digestive health"
+        ],
+        "usage": [
+            {
+                "disease": "Digestive issues",
+                "use": "Consumed to improve digestion and relieve constipation."
+            },
+            {
+                "disease": "Fatigue",
+                "use": "Taken as a supplement to reduce fatigue."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "https://en.wikipedia.org/wiki/Urtica_dioica#/media/File:Kopiva.JPG",
+        "name": "Indian Stinging Nettle",
+        "bname": "Urtica parviflora",
+        "splace": [
+            "Kandy",
+            "Badulla",
+            "Nuwara Eliya"
+        ],
+        "benefit": [
+            "Anti-inflammatory properties",
+            "Rich in vitamins and minerals"
+        ],
+        "usage": [
+            {
+                "disease": "Allergies",
+                "use": "Used in herbal teas to reduce allergy symptoms."
+            },
+            {
+                "disease": "Joint pain",
+                "use": "Applied topically to relieve pain and inflammation."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "img": "https://en.wikipedia.org/wiki/Coccinia_grandis#/media/File:Coccinia_grandis_fruit.jpg",
+        "name": "Ivy Gourd",
+        "bname": "Coccinia grandis",
+        "splace": [
+            "Kurunegala",
+            "Puttalam",
+            "Matara"
+        ],
+        "benefit": [
+            "Regulates blood sugar levels",
+            "Rich in fiber"
         ],
         "usage": [
             {
                 "disease": "Diabetes",
-                "use": "Consumed as part of the diet to help lower blood sugar levels."
+                "use": "Consumed to manage blood sugar levels."
             },
             {
-                "disease": "High blood pressure",
-                "use": "Leaves boiled in water and consumed as a tea to help manage hypertension."
+                "disease": "Digestive issues",
+                "use": "Eaten to relieve constipation and improve digestion."
             }
         ]
-    }
+    },
+    {
+        "id": 10,
+        "img": "https://en.wikipedia.org/wiki/Abrus_precatorius#/media/File:Abrus_precatorius_pods.jpg",
+        "name": "Rosary Pea",
+        "bname": "Abrus precatorius",
+        "splace": [
+            "Anuradhapura",
+            "Monaragala",
+            "Ratnapura"
+        ],
+        "benefit": [
+            "Used in traditional remedies for skin conditions",
+            "Helps relieve fever"
+        ],
+        "usage": [
+            {
+                "disease": "Skin infections",
+                "use": "Applied as a paste to treat skin infections."
+            },
+            {
+                "disease": "Fever",
+                "use": "Used in traditional medicine to bring down fever."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "img": "https://en.wikipedia.org/wiki/Marsilea_minuta#/media/File:Marsilea_minuta_9090.jpg",
+        "name": "Small Water Clover",
+        "bname": "Marsilea quadrifolia",
+        "splace": [
+            "Kandy",
+            "Matale",
+            "Badulla"
+        ],
+        "benefit": [
+            "Promotes healthy digestion",
+            "Anti-inflammatory properties"
+        ],
+        "usage": [
+            {
+                "disease": "Digestive issues",
+                "use": "Consumed to improve digestion."
+            },
+            {
+                "disease": "Inflammation",
+                "use": "Used to reduce inflammation in traditional remedies."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "img": "https://en.wikipedia.org/wiki/Cleome_gynandra#/media/File:Cleome_gynandra_Blanco1.233-cropped.jpg",
+        "name": "Spider Wisp",
+        "bname": "Cleome gynandra",
+        "splace": [
+            "Jaffna",
+            "Vavuniya",
+            "Kilinochchi"
+        ],
+        "benefit": [
+            "Rich in vitamins and minerals",
+            "Supports respiratory health"
+        ],
+        "usage": [
+            {
+                "disease": "Asthma",
+                "use": "Used in traditional remedies for asthma."
+            },
+            {
+                "disease": "Skin conditions",
+                "use": "Applied topically to treat skin disorders."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "img": "https://en.wikipedia.org/wiki/Nicotiana_benthamiana#/media/File:Nicotiana_benthamiana_plant.jpg",
+        "name": "Square Stalked Vine",
+        "bname": "Cissus quadrangularis",
+        "splace": [
+            "Hambantota",
+            "Matara",
+            "Kalutara"
+        ],
+        "benefit": [
+            "Promotes bone health",
+            "Helps with digestive issues"
+        ],
+        "usage": [
+            {
+                "disease": "Bone fractures",
+                "use": "Used to promote faster healing of bone fractures."
+            },
+            {
+                "disease": "Indigestion",
+                "use": "Consumed to improve digestion."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "img": "https://www.bhg.com/thmb/jeews0qE_nXAIiKRArdfrNtOLjI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/window-frame-trellis-vines-ebacf0fe-a004cc05c9fd4cde8981c5193efb4613.jpg",
+        "name": "Trellis Vine",
+        "bname": "Pergularia daemia",
+        "splace": [
+            "Polonnaruwa",
+            "Kurunegala",
+            "Vavuniya"
+        ],
+        "benefit": [
+            "Anti-inflammatory properties",
+            "Supports respiratory health"
+        ],
+        "usage": [
+            {
+                "disease": "Asthma",
+                "use": "Used in traditional treatments for asthma."
+            },
+            {
+                "disease": "Joint pain",
+                "use": "Applied as a paste to relieve joint pain."
+            }
+        ]
+    }    
 ]
