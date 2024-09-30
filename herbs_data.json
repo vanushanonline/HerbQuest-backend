@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "img": "https://en.wikipedia.org/wiki/Clitoria_ternatea#/media/File:Clitoria_ternatea_flower_by_Dr._Raju_Kasambe_DSCN1517 hiiii_(8).jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Clitoria_ternatea_flower_by_Dr._Raju_Kasambe_DSCN1517_%288%29.jpg/800px-Clitoria_ternatea_flower_by_Dr._Raju_Kasambe_DSCN1517_%288%29.jpg",
         "name": "Butterfly Pea",
         "bname": "Clitoria ternatea",
         "splace": [
@@ -26,7 +26,7 @@
     },
     {
         "id": 1,
-        "img": "https://en.wikipedia.org/wiki/Sida_acuta#/media/File:Sida_acuta_(Jangli-methi)_in_Hyderabad,_AP_W2_IMG_0084.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sida_acuta_%28Jangli-methi%29_in_Hyderabad%2C_AP_W2_IMG_0084.jpg",
         "name": "Common Wireweed",
         "bname": "Sida cordifolia",
         "splace": [
@@ -51,7 +51,7 @@
     },
     {
         "id": 2,
-        "img": "https://en.wikipedia.org/wiki/Calotropis_gigantea#/media/File:Calotropis_gigantea.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/81/Calotropis_gigantea.jpg",
         "name": "Crown Flower",
         "bname": "Calotropis gigantea",
         "splace": [
@@ -101,7 +101,7 @@
     },
     {
         "id": 4,
-        "img": "https://en.wikipedia.org/wiki/Tinospora_cordifolia#/media/File:Tinospora_cordifolia.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tinospora_cordifolia.jpg",
         "name": "Heart-Leaved Moonseed",
         "bname": "Tinospora cordifolia",
         "splace": [
@@ -126,7 +126,7 @@
     },
     {
         "id": 5,
-        "img": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum#/media/File:Tulsi_or_Tulasi_Holy_basil.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tulsi_or_Tulasi_Holy_basil.jpg",
         "name": "Holy Basil",
         "bname": "Ocimum tenuiflorum",
         "splace": [
@@ -151,7 +151,7 @@
     },
     {
         "id": 6,
-        "img": "https://en.wikipedia.org/wiki/Acalypha_indica#/media/File:(Arya)_Acalypha_indica_Pilangsari_2019_0.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%28Arya%29_Acalypha_indica_Pilangsari_2019_0.jpg",
         "name": "Indian Copperleaf",
         "bname": "Acalypha indica",
         "splace": [
@@ -176,7 +176,7 @@
     },
     {
         "id": 7,
-        "img": "https://www.growables.org/information/TropicalFruit/images/JujubeIndianWiki13300.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%28Ziziphus_jujuba%29_Foliage_at_Ammuguda_01.jpg/1280px-%28Ziziphus_jujuba%29_Foliage_at_Ammuguda_01.jpg",
         "name": "Indian Jujube",
         "bname": "Ziziphus mauritiana",
         "splace": [
@@ -201,7 +201,7 @@
     },
     {
         "id": 8,
-        "img": "https://en.wikipedia.org/wiki/Urtica_dioica#/media/File:Kopiva.JPG",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hawthorn_fruit.JPG",
         "name": "Indian Stinging Nettle",
         "bname": "Urtica parviflora",
         "splace": [
@@ -226,7 +226,7 @@
     },
     {
         "id": 9,
-        "img": "https://en.wikipedia.org/wiki/Coccinia_grandis#/media/File:Coccinia_grandis_fruit.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Coccinia_grandis_fruit.jpg",
         "name": "Ivy Gourd",
         "bname": "Coccinia grandis",
         "splace": [
@@ -251,7 +251,7 @@
     },
     {
         "id": 10,
-        "img": "https://en.wikipedia.org/wiki/Abrus_precatorius#/media/File:Abrus_precatorius_pods.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Abrus_precatorius_pods.jpg",
         "name": "Rosary Pea",
         "bname": "Abrus precatorius",
         "splace": [
@@ -276,7 +276,7 @@
     },
     {
         "id": 11,
-        "img": "https://en.wikipedia.org/wiki/Marsilea_minuta#/media/File:Marsilea_minuta_9090.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Marsilea_minuta_9090.jpg",
         "name": "Small Water Clover",
         "bname": "Marsilea quadrifolia",
         "splace": [
@@ -301,7 +301,7 @@
     },
     {
         "id": 12,
-        "img": "https://en.wikipedia.org/wiki/Cleome_gynandra#/media/File:Cleome_gynandra_Blanco1.233-cropped.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cleome_gynandra_Blanco1.233-cropped.jpg",
         "name": "Spider Wisp",
         "bname": "Cleome gynandra",
         "splace": [
@@ -326,7 +326,7 @@
     },
     {
         "id": 13,
-        "img": "https://en.wikipedia.org/wiki/Nicotiana_benthamiana#/media/File:Nicotiana_benthamiana_plant.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Nicotiana_benthamiana_plant.jpg",
         "name": "Square Stalked Vine",
         "bname": "Cissus quadrangularis",
         "splace": [
@@ -351,7 +351,7 @@
     },
     {
         "id": 14,
-        "img": "https://www.bhg.com/thmb/jeews0qE_nXAIiKRArdfrNtOLjI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/window-frame-trellis-vines-ebacf0fe-a004cc05c9fd4cde8981c5193efb4613.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Arya-heart_leaves-Pilang_Dalem-2019_01.jpg",
         "name": "Trellis Vine",
         "bname": "Pergularia daemia",
         "splace": [
